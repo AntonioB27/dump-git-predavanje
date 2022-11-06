@@ -1,0 +1,2 @@
+# dump-git-predavanje
+git
